@@ -1,0 +1,10 @@
+flowers
+model
+face
+__pycache__/
+data/
+photos
+photosFace/
+cifar10_images
+test
+cosine_sim
